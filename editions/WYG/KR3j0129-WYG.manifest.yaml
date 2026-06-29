@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3j0129/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3j0129/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 吹劍錄外集
+  date: '2015-08-24 23:24:20.934904'
+  source:
+    repository: kanripo
+    path: KR3j0129
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0129_000-WYG.yaml, hash: 'sha256:8e3bac1d9c1fedb41fce41c9a877888d308019dc8f6886bfcd1d47cf4d343aec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0129_000-WYG.markers.yaml, hash: 'sha256:fb93eb1c0b54019306ef2643774d8d49fa94b12bcca416314e0c63f0e4c0812c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0129_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 264
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0129_WYG_000-3a
+    span:
+    - body
+    - 264
+    - 22306
+  label: 吹劍録外集
+  type: section
+  level: 1
+hash: sha256:80098c2cc12694ae2fa663385a23cf3d7b81734544c7f0149e61b16c8ee082d1
