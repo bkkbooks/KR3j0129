@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3j0129_000.yaml, hash: 'sha256:390dbe4687aa4be96a4097e41b7e92f36291d524d56fa3fe8bd18b0e46df3b28'}
+  - {seq: 0, filename: KR3j0129_000.yaml, hash: 'sha256:925c6082bcfb020e519ecc888b6215ab859dcfed909d61743ff5efe9db37f5a8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0129_000.markers.yaml, hash: 'sha256:ad5dcfe03f332cebc2a0d717d6c3d2984a0e4f2adb3018740d8dd0e4946df716'}
+  - {seq: 0, role: markers, filename: assets/KR3j0129_000.markers.yaml, hash: 'sha256:899bdd6d044fc03b4c34f3a003815fe2846ae3cf525f4c93614b891a2dc706d4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 吹劍録外集
   type: section
   level: 1
-hash: sha256:e4fcaf7904e7001a44c3f6d6a4080e00978d1861f10ef9c37fa612cf757493dd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:87c21a8552f350b674d72a567b161ca7008b9e34106824e8a412d86124216d2f
