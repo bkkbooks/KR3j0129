@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3j0129/v1
 canonical_location: https://kanripo.org/bkk/KR3j0129/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 吹劍錄外集
   date: '2015-08-24 23:24:20.934904'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3j0129_000.yaml, hash: 'sha256:925c6082bcfb020e519ecc888b6215ab859dcfed909d61743ff5efe9db37f5a8'}
+  - {seq: 0, filename: KR3j0129_000.yaml, hash: 'sha256:7eb98b79e541df83f7455fc90d9c7ffc719eb47e810385d92f36fe69ce82832e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0129_000.markers.yaml, hash: 'sha256:899bdd6d044fc03b4c34f3a003815fe2846ae3cf525f4c93614b891a2dc706d4'}
+  - {seq: 0, role: markers, filename: assets/KR3j0129_000.markers.yaml, hash: 'sha256:1bb215309403c6574c40bd68a1c1b50125562cd47db91985516ac0bbb2f94772'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 吹劍録外集
   type: section
   level: 1
-hash: sha256:87c21a8552f350b674d72a567b161ca7008b9e34106824e8a412d86124216d2f
+hash: sha256:c0245328ec86d1238d624b388efb87d611ab92ae8ec0ecb7bda963c37ce4835e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
