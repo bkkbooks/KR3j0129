@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3j0129_000-WYG.yaml, hash: 'sha256:8e3bac1d9c1fedb41fce41c9a877888d308019dc8f6886bfcd1d47cf4d343aec'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0129_000-WYG.markers.yaml, hash: 'sha256:fb93eb1c0b54019306ef2643774d8d49fa94b12bcca416314e0c63f0e4c0812c'}
+  - {seq: 0, role: markers, filename: assets/KR3j0129_000-WYG.markers.yaml, hash: 'sha256:fb1437891f0d995bbabd27589b9852c15a058deeb6b0663c0f4eba0a13672e26'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 吹劍録外集
   type: section
   level: 1
-hash: sha256:80098c2cc12694ae2fa663385a23cf3d7b81734544c7f0149e61b16c8ee082d1
+hash: sha256:0d69d0e540026c035b21e623f7724bfdc9799d9fdc412019c078851bfdb6fb1d
